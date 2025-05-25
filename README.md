@@ -57,7 +57,7 @@ Detecção:
 Converte os frames para RGB, passa pelo modelo e desenha caixas verdes ao redor das motos detectadas, exibindo a confiança da detecção.
 
 Finalização:
-Pressione q para encerrar o programa, liberando os recursos de vídeo.
+Pressione "Q" para encerrar o programa, liberando os recursos de vídeo.
 
 
 📝 Observações
