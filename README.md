@@ -1,4 +1,5 @@
 # Detecção de Motos com YOLOv5 e OpenCV
+# Integrantes: Henzo Puchetti RM555179 / Luann Mariano - RM558548
 Este projeto em Python utiliza o modelo pré-treinado YOLOv5 (You Only Look Once) para realizar a detecção automática de motos em vídeos. A aplicação faz uso das bibliotecas PyTorch e OpenCV para processar quadros de vídeo em tempo real e exibir as detecções na tela.
 
 
